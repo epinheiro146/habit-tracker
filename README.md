@@ -6,9 +6,9 @@ The intent here is simply to provide a habit tracker app that's easy to use and 
 
 ## Features
 
-1. Calender
+1. Calendar
 
-2. Preset and Custom Habit Tags
+2. Name and Track up to 99 Habits
 
 3. To-Do List View (w/ ability to check off items)
 
